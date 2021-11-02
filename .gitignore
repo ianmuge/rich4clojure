@@ -10,3 +10,5 @@
 .calva/**/*.calva-repl
 .lsp/sqlite*.db
 .DS_Store
+.clj-kondo/*
+.lsp/*
